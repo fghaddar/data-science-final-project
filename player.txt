@@ -1,5 +1,4 @@
-,,,,,,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Expected,Expected,Expected,Expected,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,
-Rk,Player,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA,Matches
+Rk,Player,Pos,Squad,Age,Born,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance Gls,Performance Ast,Performance G-PK,Performance PK,Performance PKatt,Performance CrdY,Performance CrdR,Per_90 Gls,Per_90 Ast,Per_90 G+A,Per_90 G-PK,Per_90 G+A-PK,Expected xG,Expected npxG,Expected xA,Expected npxG+xA,Per_90 xG,Per_90 xA,Per_90 xG+xA,Per_90 npxG,Per_90 npxG+xA,Matches
 1,Mohamed Abdel-Shafy\f948de7f,DF,eg Egypt,32,1985,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
 2,Shehu Abdullahi\7ecc9dee,DF,ng Nigeria,25,1993,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
 3,Johnny Acosta\6aaf0284,DF,cr Costa Rica,34,1983,3,3,270,3.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
