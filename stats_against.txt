@@ -1,5 +1,4 @@
-,,,,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Expected,Expected,Expected,Expected,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes
-Squad,# Pl,Age,Poss,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA
+Squad,# Pl,Age,Poss,playing_time MP,playing_time Starts,playing_time Min,playing_time 90s,performance Gls,performance Ast,performance G-PK,performance PK,performance PKatt,performance CrdY,performance CrdR,per_90 Gls,per_90 Ast,per_90 G+A,per_90 G-PK,per_90 G+A-PK,expected xG,expected npxG,expected xA,expected npxG+xA,per_90 xG,per_90 xA,per_90 xG+xA,per_90 npxG,per_90 npxG+xA
 ar vs Argentina,20,27.6,34.8,4,44,360,4.0,9,4,7,2,2,9,0,2.25,1.00,3.25,1.75,2.75,5.4,3.9,2.5,6.3,1.34,0.61,1.96,0.96,1.58
 au vs Australia,15,26.1,48.3,3,33,270,3.0,4,2,3,1,1,5,0,1.33,0.67,2.00,1.00,1.67,2.5,1.7,1.3,3.0,0.82,0.42,1.24,0.57,0.99
 be vs Belgium,21,27.0,47.1,7,77,630,7.0,6,6,6,0,0,13,0,0.86,0.86,1.71,0.86,1.71,8.8,8.8,7.7,16.5,1.25,1.11,2.36,1.25,2.36
